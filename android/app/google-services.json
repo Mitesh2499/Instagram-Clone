@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554724647206",
+    "firebase_url": "https://incloneapp.firebaseio.com",
+    "project_id": "incloneapp",
+    "storage_bucket": "incloneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554724647206:android:742689c6f8acc8102361e7",
+        "android_client_info": {
+          "package_name": "com.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554724647206-8fvum2t60u672qkp33svdd1f3ona4b1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMs9M2rex-lLOIMTGgWt0qI26FSPElZLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554724647206-8fvum2t60u672qkp33svdd1f3ona4b1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
